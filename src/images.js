@@ -1,4 +1,4 @@
-const Figures = {
+const Images = {
   blinker: `
     .........
     ...OOO...
@@ -300,6 +300,6 @@ const Figures = {
 	.......OOO.................
 	........O..................
   `
-}
+};
 
-export default Figures
+export default Images;
